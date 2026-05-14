@@ -1,7 +1,7 @@
 Mohr's Circle MATLAB Project
 
 Overview
-The project calculates and plots a Mohr's Circle from given stress inputs
+-The project calculates and plots a Mohr's Circle from given stress inputs
 
 Inputs Used
 -σx=50
